@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongodb+srv://mim:12345@cluster0.tfzr2.mongodb.net/ShippingCart?retryWrites=true&w=majority"
+}
